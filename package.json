@@ -3,6 +3,7 @@
 		"nodejs": "^0.0.0"
 	},
 	"scripts": {
-		"1": "node ./day1/main.js"
+		"1": "node ./day1/main.js",
+		"2": "node --env-file=./day2/.env ./day2/main.js"
 	}
 }
