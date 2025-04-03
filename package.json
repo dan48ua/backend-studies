@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"nodejs": "^0.0.0"
+	},
+	"scripts": {
+		"1": "node ./day1/main.js"
+	}
+}
